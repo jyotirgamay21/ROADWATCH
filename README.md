@@ -18,5 +18,4 @@ Express.js
 MongoDB
 REST APIs
 
-Contributors:
-Jyotirgamay Maurya
+
