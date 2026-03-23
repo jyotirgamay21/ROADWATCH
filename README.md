@@ -6,17 +6,17 @@ It enhances transparency by linking each road to its contractor and budget detai
 
 With an interactive map interface and an admin dashboard, ROADWATCH creates a complete ecosystem for smart infrastructure monitoring and citizen engagement.
 
-Frontend
+Frontend:
 React.js
 Tailwind CSS
 Google Maps API / Mapbox
 Axios
 
-Backend
+Backend:
 Node.js
 Express.js
 MongoDB
 REST APIs
 
-Contributors
+Contributors:
 Jyotirgamay Maurya
